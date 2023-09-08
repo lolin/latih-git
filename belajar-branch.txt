@@ -4,5 +4,6 @@ belajar membuat branching di git
 3.mengupdate file belajar-branch.txt
 4. menambahkan beberapa info di belajar-branch.txt
 
+Orang pertama ini:
 Sekarang mencoba simulasi konflik di branch
 Isi lagi biar tambah kompleks
