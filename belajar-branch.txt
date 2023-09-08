@@ -6,3 +6,4 @@ belajar membuat branching di git
 
 Orang kedua ini:
 orang kedua juga coba menambahkan data
+data kedua ditambahkan juga
