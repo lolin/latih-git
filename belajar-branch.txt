@@ -3,3 +3,5 @@ belajar membuat branching di git
 2. membuat file baru belajar-branch.txt untuk mencoba fitur branching ini
 3.mengupdate file belajar-branch.txt
 4. menambahkan beberapa info di belajar-branch.txt
+
+Sekarang mencoba simulasi konflik di branch
