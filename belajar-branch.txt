@@ -5,3 +5,4 @@ belajar membuat branching di git
 4. menambahkan beberapa info di belajar-branch.txt
 
 Sekarang mencoba simulasi konflik di branch
+Isi lagi biar tambah kompleks
