@@ -1,6 +1,6 @@
 belajar membuat branching di git
 1. membuat branch baru di github
-2. membuat file baru belajar-branch.txt untuk mencoba fitur branching ini
+2. membuat file baru belajar-branch.txt untuk mencoba fitur branching
 3.mengupdate file belajar-branch.txt
 4. menambahkan beberapa info di belajar-branch.txt
 
