@@ -1,0 +1,3 @@
+belajar membuat branching di git
+1. membuat branch baru di github
+2. membuat file baru belajar-branch.txt untuk mencoba fitur branching ini
