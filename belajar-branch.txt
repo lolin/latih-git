@@ -4,6 +4,7 @@ belajar membuat branching di git
 3.mengupdate file belajar-branch.txt
 4. menambahkan beberapa info di belajar-branch.txt
 
+coba-konflik-2
 Orang kedua ini:
 orang kedua juga coba menambahkan data
 data kedua ditambahkan juga
