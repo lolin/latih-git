@@ -3,3 +3,4 @@ Membuat akun di github
 Membuat repo baru bernama latih-git
 membuat file belajar-git.txt
 saya mencoba mengedit file belajar-git.txt
+mencoba membuat situasi conflict di branch
